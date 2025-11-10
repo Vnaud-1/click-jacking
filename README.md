@@ -39,6 +39,7 @@ demo
 ---
 
 ## Liên hệ / Chi tiết
-Nếu cần xem testcases hoặc PoC chi tiết, kéo request access hoặc mở issue trong repo.
+Nếu cần xem testcases hoặc PoC chi tiết, liên hệ mr daun
+
 
 ---
